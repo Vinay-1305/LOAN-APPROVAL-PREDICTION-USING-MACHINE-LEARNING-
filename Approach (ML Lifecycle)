@@ -1,0 +1,30 @@
+Organize your entire workflow:
+
+### 1️⃣ Data Collection
+Where dataset came from
+
+### 2️⃣ Data Cleaning
+Handling missing data, duplicates, outliers
+
+### 3️⃣ EDA (Exploratory Data Analysis)
+Plots, correlations, distribution graphs  
+Feature importance
+
+### 4️⃣ Feature Engineering
+New feature creation if any
+
+### 5️⃣ Model Selection
+Algorithms used:
+- Logistic Regression
+- Random Forest
+- SVM
+- KNN  
+*(You can add/remove models)*
+
+### 6️⃣ Model Evaluation
+Metrics:
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix  
